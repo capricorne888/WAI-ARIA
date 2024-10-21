@@ -28,4 +28,4 @@ Overall, WAI-ARIA makes websites easier for everyone to use, especially those wh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wai-aria-role-script.git
+   git clone https://github.com/capricorne888/WAI-ARIA.git

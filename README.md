@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://checkthese.com/img/IMG_0160.PNG?3" alt="Capricorne888" width="200" height="200">
+</p>
+
 # WAI-ARIA Role Application Script
 
 This repository contains a JavaScript script designed to automatically apply WAI-ARIA roles and properties to dynamic content on a website, enhancing compatibility with screen readers and improving accessibility.

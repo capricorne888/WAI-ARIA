@@ -6,7 +6,7 @@ This repository contains a JavaScript script designed to automatically apply WAI
 
 WAI-ARIA (Web Accessibility Initiative - Accessible Rich Internet Applications) provides a framework to improve the accessibility of web content and applications for people with disabilities. This script serves as a starting point for developers looking to integrate ARIA roles into their websites.
 
-## What is WAI-ARIA? (Kid-Friendly Explanation)
+## What is WAI-ARIA? 
 
 Imagine WAI-ARIA as a special set of instructions that help computers talk to people who can't see the screen. Just like how traffic signs guide drivers, WAI-ARIA guides computers on how to describe web pages to people using screen readers.
 

@@ -32,4 +32,4 @@ Overall, WAI-ARIA makes websites easier for everyone to use, especially those wh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/capricorne888/WAI-ARIA.git
+   <script src="https://cdn.jsdelivr.net/gh/capricorne888/WAI-ARIA@main/wai-aria.js

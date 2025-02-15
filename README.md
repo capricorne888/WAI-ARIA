@@ -30,6 +30,6 @@ Overall, WAI-ARIA makes websites easier for everyone to use, especially those wh
 
 ## Installation
 
-1. Clone the repository:
+1. Add to your page:
    ```bash
-   <script src="https://cdn.jsdelivr.net/gh/capricorne888/WAI-ARIA@main/wai-aria.js
+   <script src="https://cdn.jsdelivr.net/gh/capricorne888/WAI-ARIA@main/wai-aria.js"></script>
